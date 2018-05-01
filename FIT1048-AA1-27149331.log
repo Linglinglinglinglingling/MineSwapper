@@ -1,0 +1,6 @@
+﻿  FIT1048-AA1-27149331.cpp
+d:\2017 s2\fit1048\aa1\fit1048-aa1-27149331\fit1048-aa1-27149331\fit1048-aa1-27149331.cpp(332): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\2017 s2\fit1048\aa1\fit1048-aa1-27149331\fit1048-aa1-27149331\fit1048-aa1-27149331.cpp(92): warning C4715: 'checking': not all control paths return a value
+d:\2017 s2\fit1048\aa1\fit1048-aa1-27149331\fit1048-aa1-27149331\fit1048-aa1-27149331.cpp(608): warning C4715: 'loadarchive': not all control paths return a value
+  FIT1048-AA1-27149331.vcxproj -> D:\2017 S2\FIT1048\AA1\FIT1048-AA1-27149331\Debug\FIT1048-AA1-27149331.exe
+  FIT1048-AA1-27149331.vcxproj -> D:\2017 S2\FIT1048\AA1\FIT1048-AA1-27149331\Debug\FIT1048-AA1-27149331.pdb (Partial PDB)
